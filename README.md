@@ -45,12 +45,17 @@
 ---
 #### Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/Astropeda/Gnime-lite"><img title="HEROKU" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Heroku"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Astropeda/Gnime-lite"><img title="HEROKU" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=Heroku"></a>
 
 ---
 #### Deploy To Replit
 
 <a href="https://replit.com/github/Astropeda/Gnime-lite"><img title="REPLIT" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+
+---
+#### Deploy To CODESPACES
+
+<a href="https://github.com/codespaces/new"><img title="REPLIT" src="https://img.shields.io/badge/DEPLOY CODESPACES-h?color=black&style=for-the-badge&logo=Github"></a>
 
 ---
  ### Termux Guide
