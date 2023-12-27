@@ -36,18 +36,11 @@
 ---
 .
 
-1. 🔍 What Makes Gnime-Lite Special?
-
-2. 🌟 Effortless Interaction: Gnime-Lite is smooth and intuitive, ensuring you get the most out of your WhatsApp without the complexity.
-
-3. 🚀 Fast and Responsive: Speed is key! Enjoy rapid responses and quick actions. Whether it's fetching information, organizing your messages, or providing entertainment, Gnime-Lite does it swiftly.
-
-4. 🤖 Advanced Features, Simplified: From automated replies to scheduling messages, and even playing fun games, Gnime-Lite brings you the best of Gnime Md's features in a more accessible format.
-
-5. 🔒 Privacy-Focused & Ban Protection: Your privacy is paramount. Gnime-Lite operates with simple code and build packs, less risk of banning your Heroku, and WhatsAPp, please don't misuse.
-
-6. 🔧 Regular Updates: We continuously evolve, bringing you new features and improvements based on your feedback and the latest technological advancements.
-
-7. 📱 Lightweight and Reliable: Gnime-Lite is perfect for users who need to run on Termux, Render and Replit.
-
+1. **🔍 What Makes Gnime-Lite Special?**
+2. **🌟 Effortless Interaction: Gnime-Lite is smooth and intuitive, ensuring you get the most out of your WhatsApp without the complexity.**
+3. **🚀 Fast and Responsive: Speed is key! Enjoy rapid responses and quick actions. Whether it's fetching information, organizing your messages, or providing entertainment, Gnime-Lite does it swiftly.**
+4. **🤖 Advanced Features, Simplified: From automated replies to scheduling messages, and even playing fun games, Gnime-Lite brings you the best of Gnime Md's features in a more accessible format.**
+5. **🔒 Privacy-Focused & Ban Protection: Your privacy is paramount. Gnime-Lite operates with simple code and build packs, less risk of banning your Heroku, and WhatsAPp, please don't misuse.**
+6. **🔧 Regular Updates: We continuously evolve, bringing you new features and improvements based on your feedback and the latest technological advancements.**
+7. **📱 Lightweight and Reliable: Gnime-Lite is perfect for users who need to run on Termux, Render and Replit.**
 ##
