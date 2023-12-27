@@ -2,7 +2,7 @@
 //                                                                                                      //
 //                                   MULTI-DEVICE WHATSAPP BOT                                          //
 //                                                                                                      //
-//                                            𝚅.𝟷.𝟸.𝟽                                                   //
+//                                            ᴠ0.1ʟᴛᴇ                                                   //
 //                                                                                                      //
 //              ███████╗██╗ ██████╗ ███╗   ███╗ █████╗     ███╗   ███╗██████╗                           //
 //              ██╔════╝██║██╔════╝ ████╗ ████║██╔══██╗    ████╗ ████║██╔══██╗                          //
@@ -139,7 +139,7 @@ Module_Exports({
             Void.sendMessage(
                 man.chat, {
                     image: { url: r.urlToImage },
-                    caption: `*Title:* ${r.title}\n\n*Content:* ${r.content}\n*Author:* ${r.author}\n*Source:* ${r.source.name}\n*Created On:* ${r.publishedAt}\n*More on:* ${r.url}\n\n*•ᴘᴏᴡᴇʀᴇᴅ ʙʏ•* sɪɢᴍᴀ ᴹᴰ`,
+                    caption: `*Title:* ${r.title}\n\n*Content:* ${r.content}\n*Author:* ${r.author}\n*Source:* ${r.source.name}\n*Created On:* ${r.publishedAt}\n*More on:* ${r.url}\n\n*•ᴘᴏᴡᴇʀᴇᴅ ʙʏ•* ɢɴɪᴍᴇ-ʟɪᴛᴇ`,
                 }, {
                     quoted: man,
                 }

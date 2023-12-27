@@ -2,7 +2,7 @@
 //                                                                                                      //
 //                                   MULTI-DEVICE WHATSAPP BOT                                          //
 //                                                                                                      //
-//                                            𝚅.𝟷.𝟸.𝟽                                                   // 
+//                                            ᴠ0.1ʟᴛᴇ                                                   // 
 //                                                                                                      //
 //              ███████╗██╗ ██████╗ ███╗   ███╗ █████╗     ███╗   ███╗██████╗                           //
 //              ██╔════╝██║██╔════╝ ████╗ ████║██╔══██╗    ████╗ ████║██╔══██╗                          //
@@ -192,7 +192,7 @@ async(sigma, person) => {
 ┃✗ *_•sᴘᴇᴇᴅ•_* ${latensie.toFixed(4)} ᴍs 
 ┃✗ *_•ᴘʟᴀᴛғᴏʀᴍ•_* ᴍᴀᴄ-ᴏs
 ┃✗ *_•ᴠᴇʀsɪᴏɴ•_* ${name.VERSION} 
-┃✗ *_•ᴘᴏᴡᴇʀᴇᴅ ʙʏ•_* *_sɪɢᴍᴀ ᴹᴰ_*
+┃✗ *_•ᴘᴏᴡᴇʀᴇᴅ ʙʏ•_* *_ɢɴɪᴍᴇ-ʟɪᴛᴇ_*
 ┗━━━━━━━━━━⦿
 `;
   let buttonMessaged = {
@@ -290,7 +290,7 @@ Module_Exports({
 async(bot, man,write,{isCreator}) => {
 
 if(!isCreator) return man.reply(tlang().owner);
-let SIGMA_THEMES=`┏━━⟪⟪ ${mztit} ⟫━⦿ \n┃✗ *ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʀᴇᴍɪᴜᴍ*\n┃✗ *ᴛʜᴇᴍᴇs ɪɴ sɪɢᴍᴀ ᴹᴰ*\n`
+let SIGMA_THEMES=`┏━━⟪⟪ ${mztit} ⟫━⦿ \n┃✗ *ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʀᴇᴍɪᴜᴍ*\n┃✗ *ᴛʜᴇᴍᴇs ɪɴ ɢɴɪᴍᴇ-ʟɪᴛᴇ*\n`
 SIGMA_THEMES+=`┃✗ SHELBY\n┃✗ JOKER\n┃✗ PATRICK\n┃✗ SIGMA_MD\n┃✗ AVENGERS\n┃✗ BTS\n┃✗ ANIME\n┃✗ GOJO\n┃✗ MOMOLAND\n┃✗ ADAM\n┃✗ AYANOKOJI\n┃✗ EDITH\n┃✗ FRIDAY\n┃✗ GENOS\n┃✗ GIDEON\n┃✗ GOKU\n┃✗ LUFFY\n┃✗ NARUTO\n┃✗ NEZUKO\n┃✗ PARKER\n┃✗ ${prefix}setvar THEME:BTS\n┗━━━━━━━━━━⦿`
 return man.reply(SIGMA_THEMES)
   

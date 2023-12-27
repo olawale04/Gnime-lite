@@ -2,7 +2,7 @@
 //                                                                                                      //
 //                                   MULTI-DEVICE WHATSAPP BOT                                          //
 //                                                                                                      //
-//                                            𝚅.𝟷.𝟸.𝟽                                                   // 
+//                                            ᴠ0.1ʟᴛᴇ                                                   // 
 //                                                                                                      //
 //              ███████╗██╗ ██████╗ ███╗   ███╗ █████╗     ███╗   ███╗██████╗                           //
 //              ██╔════╝██║██╔════╝ ████╗ ████║██╔══██╗    ████╗ ████║██╔══██╗                          //
@@ -427,7 +427,7 @@ default:
         person.reply(`Please provide direction(left,right,up,down).\nEg:- ${prefix}gamble 200 left`)
     }
    let media = await getBuffer(hjkl)
-   person.reply(media,{packname:'sɪɢᴍᴀ ᴹᴰ',author:'Zubair'},"sticker")
+   person.reply(media,{packname:'ɢɴɪᴍᴇ-ʟɪᴛᴇ',author:'Zubair'},"sticker")
      const f = ["up", "right", "left", "down", "up", "left", "down", "right", "up", "down", "right", "left"]
      const r = f[Math.floor(Math.random () * f.length)]
      if (!text) return person.reply(
