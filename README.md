@@ -40,6 +40,7 @@
 <a href="https://replit.com/github/Astropeda/Gnime-lite"><img title="REPLIT" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit">
 <a href="https://github.com/codespaces/new"><img title="REPLIT" src="https://img.shields.io/badge/DEPLOY CODESPACES-h?color=black&style=for-the-badge&logo=Github">
 </p>
+
 ---
  ### Termux Guide
 
