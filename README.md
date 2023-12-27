@@ -3,18 +3,18 @@
 </p>
 <p align="center">
   <a href="https://gihtub.com/Astropeda">
-    <img alt=Support height="350" src="http://https://leadier-umbrellas.000webhostapp.com/botpic.jpg"> 
+    <img alt=Lite src="https://leadier-umbrellas.000webhostapp.com/botpic.jpg"> 
     </p>
     <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://streak-stats.demolab.com?user=Astropeda&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
-  <a href="https://github.com/Maher-Zubair/SIGMA-MD/fork">
-    <img src="https://img.shields.io/github/forks/Maher-Zubair/SIGMA-MD?label=Fork&style=social">
+  <a href="https://github.com/Astropeda/Gnime-lite/fork">
+    <img src="https://img.shields.io/github/forks/Astropeda/Gnime-lite?label=Fork&style=social">
     
     
-  <a href="https://github.com/Maher-Zubair/SIGMA-MD/stargazers"> 
+  <a href="https://github.com/Astropeda/Gnime-lite/stargazers"> 
     <img src="https://img.shields.io/github/stars/Maher-Zubair?style=social">
   </a>
 
@@ -24,7 +24,7 @@
 <p align="center">
 <a href="https://github.com/Maher-Zubair"><img title="Owner" src="https://img.shields.io/badge/Owner-Maher Zubair-black.svg?style=for-the-badge&logo=github" width="173px" height="29"></a>
 
- <a href="https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENCE">
+ <a href="https://github.com/Astropeda/Gnime-lite/blob/main/LICENCE">
 <img src='https://img.shields.io/github/license/Maher-Zubair/SIGMA-MD?color=%231e81b0&style=for-the-badge' width="143px">
 <p align="center"> 
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/CmY0THcJCUYEGxLJulhcRV" target="_blank">
