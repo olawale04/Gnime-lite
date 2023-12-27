@@ -33,25 +33,14 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Astropeda}/count.svg" alt="Astropeda :: Visitor's Count" /></p>
 
 ## **Deployment**
- 1. Fork The Repo
+#### Fork The Repo
     <br>
 <a href="https://github.com/Astropeda/Gnime-lite/fork"><img title="INRL-MD" src="https://img.shields.io/badge/FORK GNIME LITE-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-2. Scan Qr
+---
+#### Scan Qr
     <br>
 <a href="https://replit.com/@astromedia0010/GNIME-MD-QR?v=1"><img title="SCAN QR" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi"></a>
-
-
----
-#### Deploy To Railway
-
-<a href="https://inrl-web-fkns.onrender.com/info/deploy/railway"><img title="INRL-MD Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
-
-
----
-#### Deploy To Koyeb
-
-<a href="https://inrl-web-fkns.onrender.com/info/deploy/koyeb"><img title="INRL-MD Deploy Koyeb" src="https://img.shields.io/badge/DEPLOY KOYEB-h?color=black&style=for-the-badge&logo=koyeb"></a>
 
 ---
 #### Deploy To Replit
@@ -76,7 +65,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 git clone Your Forked Github Url
-cd inrl-bot-md
+cd Gnime-lite
 npm i
 npm start
 ```
