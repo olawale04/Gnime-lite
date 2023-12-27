@@ -5,9 +5,6 @@
   <a href="https://gihtub.com/Astropeda">
     <img alt=Lite height="350px" widith="500px" src="https://leadier-umbrellas.000webhostapp.com/botpic.jpg"> 
     </p>
-    <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://streak-stats.demolab.com?user=Astropeda&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="Typing SVG" /></a>
-  </p>
 
 <p align="center">
   <a href="https://github.com/Astropeda/Gnime-lite/fork">
