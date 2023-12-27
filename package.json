@@ -1,15 +1,15 @@
 {
-          "name": "SIGMA-MD",
+          "name": "GNIME-lite",
           "version": "1.2.7",
-          "description": "SIGMA-MD A Whatsapp Bot By Maher Zubair",
+          "description": "GNIME-lite A Whatsapp Bot By Astro",
           "main": "lib/client.js",
           "type": "commonjs",
           "license": "GPL-3.0",
           "scripts": { 
-                    "start": "pm2 start lib/client.js --deep-monitoring --attach --name SIGMA-MD",
-                    "stop": "pm2 stop SIGMA-MD"
+                    "start": "pm2 start lib/client.js --deep-monitoring --attach --name GNIME-lite",
+                    "stop": "pm2 stop GNIME-lite"
           },
-          "author": "Maher Zubair",
+          "author": "Astro",
           "dependencies": {
                     "@adiwajshing/keyed-db": "^0.2.4",
                     "@bochilteam/scraper": "latest",

@@ -1,6 +1,6 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Maher Zubair",
+    "AUTHOR": "Astro",
     "theme": "Parker",
     "LANGUAGE": "English",
     "LANGCODE": "en",
@@ -11,9 +11,9 @@
             "UPDATED_LOCAL": "*Updated Successfully !*"
         },
         "global": {
-            "botName": " SIGMA-MD",
+            "botName": " GNIME-lite",
             "body": "whatsapp Bot",
-            "greet2" : "Thanks To Maher Zubair",
+            "greet2" : "Thanks To Astro",
             "pic1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhf9367JxCqZ0Hf79cc3vQVF3A41g8egRXTQ&usqp=CAU",
             "pic2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyDczHe4rFH6tsuZI5riu4dmRvycAJQ9eAYQ&usqp=CAU",
             "pic3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tZVNuXQLmeurH0MArErp_Gnw_i5YVZ_H2A&usqp=CAU",
@@ -29,7 +29,7 @@
             "dotbody" : "I decided being to be King.",
             "emojii" : "👑",
             "promote": "Admin Role Given to Zubi",
-            "pmallow": "*Hi,This is Maher Zubair\n You have been blocked for spamming.",
+            "pmallow": "*Hi,This is Astro\n You have been blocked for spamming.",
             "pmwarn": "Hi* \nPlease don't spam else I'll block you for spamming.\nJoin Support Group:\n https://chat.whatsapp.com/JM1yBMlveulDrAN22jHcWV\n* ɢɴɪᴍᴇ-ʟɪᴛᴇ*",
             "permited": "Hi\n\nNow You are permitted by my owner to pm now.\n* ɢɴɪᴍᴇ-ʟɪᴛᴇ*", 
             "revoked" : "*Hi*\nYour pm permit permission has been revoked now.\n* ɢɴɪᴍᴇ-ʟɪᴛᴇ*",

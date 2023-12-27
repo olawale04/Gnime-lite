@@ -1,14 +1,14 @@
 {
-  "name": "SIGMA-MD WHATSAPP BOT BY MAHER ZUBAIR",
+  "name": "GNIME-lite WHATSAPP BOT BY Astro",
   "description": "A Whatsapp Bot With Most Premium Features Makes Your Whatsapp Premium. For Any Help See My YT:https://www.youtube.com/@InnoxentTech",
   "logo": "https://telegra.ph/file/e5768d0b5a4441b4e576b.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "SIGMA_MD", "SIGMA_BOT", "SIGMA","SIGMA_MD-BOT","Multi-Themes Bot","multi device"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "GNIME-lite", "SIGMA_BOT", "SIGMA","SIGMA_MD-BOT","Multi-Themes Bot","multi device"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Maher Zubair"
+      "value": "Astro"
   },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL Image for bot.",
@@ -67,7 +67,7 @@
        "value": "2349027862116"
   },
    "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,if you don't have visit to get Session id\nhttps://replit.com/@Mehar-Zubair/SIGMA-MD?v=1"
+    "description": "Please put your SESSION_ID here,if you don't have visit to get Session id\nhttps://replit.com/@Mehar-Zubair/GNIME-lite?v=1"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -81,7 +81,7 @@
   },
   "MONGODB_URI": {
     "description": "Add Your Own, If you have key. Its a secret String for Mongodb Connection",
-     "value": "mongodb+srv://Maher-Zubair:SIGMA-MD@zubi.9g6b16y.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp"
+     "value": "mongodb+srv://Maher-Zubair:GNIME-lite@zubi.9g6b16y.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",

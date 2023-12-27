@@ -1,5 +1,5 @@
 while true 
 do
-echo "Starting SIGMA-MD..."
+echo "Starting GNIME-lite..."
 node lib/client.js
 done

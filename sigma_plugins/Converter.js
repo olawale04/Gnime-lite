@@ -381,7 +381,7 @@ Module_Exports({
             };
             let res = await axios.post("https://bot.lyo.su/quote/generate", body);
             let img = Buffer.alloc(res.data.result.image.length, res.data.result.image, "base64");
-            return citel.send(img,{packname:name.packname,author:'Maher Zubair'},"sticker")
+            return citel.send(img,{packname:name.packname,author:'Astro'},"sticker")
 
         }
     )
@@ -494,7 +494,7 @@ Module_Exports({
 async(Void, citel,text) => { 
 if (!text) { text=citel.quoted.text;}
     if(!text) return citel.reply('*_Please Reply To Any Text To Get Link._*');
-    let data = await pastebin.createPaste(text, "Maher Zubair");
+    let data = await pastebin.createPaste(text, "Astro");
     return citel.reply(`*_Here is your link._*\n`+data+`\n${sgen}`);
 }
 );
@@ -529,7 +529,7 @@ async(Void, citel, text) => {
 
 let a = await getBuffer(`https://api.erdwpe.com/api/maker/attp?text=${text}`)
 
-return citel.reply(a,{packname:'SIGMA_MD',author:'ZUBI'},"sticker") 
+return citel.reply(a,{packname:'GNIME-lite',author:'ZUBI'},"sticker") 
 
 }
 
@@ -553,7 +553,7 @@ async(Void, citel, text) => {
 
 let a = await getBuffer(`https://api.lolhuman.xyz/api/attp?apikey=GataDios&text=${text}`)
 
-return citel.reply(a,{packname:'SIGMA_MD',author:'ZUBI'},"sticker") 
+return citel.reply(a,{packname:'GNIME-lite',author:'ZUBI'},"sticker") 
 
 }
 
@@ -577,7 +577,7 @@ async(Void, citel, text) => {
 
 let a = await getBuffer(`https://api.lolhuman.xyz/api/attp2?apikey=GataDios&text=${text}`)
 
-return citel.reply(a,{packname:'SIGMA_MD',author:'ZUBI'},"sticker") 
+return citel.reply(a,{packname:'GNIME-lite',author:'ZUBI'},"sticker") 
 
 }
 
@@ -601,7 +601,7 @@ async(Void, citel, text) => {
 
 let a = await getBuffer(`https://api.lolhuman.xyz/api/ttp?apikey=GataDios&text=${text}`)
 
-return citel.reply(a,{packname:'SIGMA_MD',author:'ZUBI'},"sticker") 
+return citel.reply(a,{packname:'GNIME-lite',author:'ZUBI'},"sticker") 
 
 }
 
@@ -625,7 +625,7 @@ async(Void, citel, text) => {
 
 let a = await getBuffer(`https://api.lolhuman.xyz/api/ttp2?apikey=GataDios&text=${text}`)
 
-return citel.reply(a,{packname:'SIGMA_MD',author:'ZUBI'},"sticker") 
+return citel.reply(a,{packname:'GNIME-lite',author:'ZUBI'},"sticker") 
 
 }
 
@@ -649,7 +649,7 @@ async(Void, citel, text) => {
 
 let a = await getBuffer(`https://api.lolhuman.xyz/api/ttp3?apikey=GataDios&text=${text}`)
 
-return citel.reply(a,{packname:'SIGMA_MD',author:'ZUBI'},"sticker") 
+return citel.reply(a,{packname:'GNIME-lite',author:'ZUBI'},"sticker") 
 
 }
 
@@ -673,7 +673,7 @@ async(Void, citel, text) => {
 
 let a = await getBuffer(`https://api.lolhuman.xyz/api/ttp5?apikey=GataDios&text=${text}`)
 
-return citel.reply(a,{packname:'SIGMA_MD',author:'ZUBI'},"sticker") 
+return citel.reply(a,{packname:'GNIME-lite',author:'ZUBI'},"sticker") 
 
 }
 
@@ -697,7 +697,7 @@ async(Void, citel, text) => {
 
 let a = await getBuffer(`https://api.lolhuman.xyz/api/ttp6?apikey=GataDios&text=${text}`)
 
-return citel.reply(a,{packname:'SIGMA_MD',author:'ZUBI'},"sticker") 
+return citel.reply(a,{packname:'GNIME-lite',author:'ZUBI'},"sticker") 
 
 }
 
