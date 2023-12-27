@@ -33,9 +33,9 @@ module.exports = {
   promote_demote_messages : process.env.PROMOTE_DEMOTE_MESSAGES || 'true' ,
   OPENAI_API_KEY: process.env.OPENAI_API_KEY ||'' ,
   VERSION: process.env.VERSION || 'ᴠ0.1ʟᴛᴇ',
-  LANG: process.env.THEME|| 'SIGMA_MD',
+  LANG: process.env.THEME|| 'GNIME-LTE',
   menu : process.env.MENU || '', // Not Available in current Version
-  WORKTYPE: process.env.WORKTYPE || 'public' // if private only you can use your bot, if public everyone use your bot
+  WORKTYPE: process.env.WORKTYPE || 'private' // if private only you can use your bot, if public everyone use your bot
 };
 
 
