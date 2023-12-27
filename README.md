@@ -34,7 +34,7 @@
 
 ## **Deployment**
 
-**Fork** [! [Heroku] (1)]
+**Fork** <a href="https://github.com/Astropeda/Gnime-lite/fork"><img title="INRL-MD" src="https://img.shields.io/badge/FORK GNIME LITE-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 ## **Bot Features**
 ---
