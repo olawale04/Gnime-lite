@@ -5,7 +5,7 @@ Gnime-Lite is here to transform your WhatsApp experience, making it more enjoyab
 
 
 
-##Features
+## Features
 1. 🔍 What Makes Gnime-Lite Special?
 
 2. 🌟 Effortless Interaction: Designed with user-friendliness in mind, interacting with Gnime-Lite is smooth and intuitive, ensuring you get the most out of your WhatsApp without the complexity.
