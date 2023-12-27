@@ -32,10 +32,12 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Astropeda}/count.svg" alt="Astropeda :: Visitor's Count" /></p>
 
-## ***Bot Features***
----
-.
+## **Deployment**
 
+**Fork** [! [Heroku] (1)]
+
+## **Bot Features**
+---
 1. **🔍 What Makes Gnime-Lite Special?**
 2. **🌟 Effortless Interaction: Gnime-Lite is smooth and intuitive, ensuring you get the most out of your WhatsApp without the complexity.**
 3. **🚀 Fast and Responsive: Speed is key! Enjoy rapid responses and quick actions. Whether it's fetching information, organizing your messages, or providing entertainment, Gnime-Lite does it swiftly.**
