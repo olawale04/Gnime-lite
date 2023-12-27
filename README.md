@@ -1,4 +1,6 @@
 # Gnime-Lite
+
+[![Gnime-Lite](Gnime-Lite "Gnime-Lite")](http://https://leadier-umbrellas.000webhostapp.com/botpic.jpg "Gnime-Lite")
 <p>
 Gnime-Lite is here to transform your WhatsApp experience, making it more enjoyable and efficient than ever before. As a streamlined version of the popular Gnime Md bot, Gnime-Lite offers a perfect blend of simplicity and advanced features, tailored for everyday ease of use.
 </p>
