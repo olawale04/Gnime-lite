@@ -29,7 +29,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Astropeda}/count.svg" alt="Astropeda :: Visitor's Count" /></p>
 
-## **Deployment**
+## <p align="center">Deployment</p>
 <p align="center">
 <a href="https://github.com/Astropeda/Gnime-lite/fork"><img title="GNIME" src="https://img.shields.io/badge/FORK GNIME LITE-h?color=black&style=for-the-badge&logo=stackshare">
 <a href="https://replit.com/@astromedia0010/GNIME-MD-QR?v=1"><img title="SCAN QR" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi">
