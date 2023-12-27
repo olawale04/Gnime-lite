@@ -34,18 +34,23 @@
 
 ## **Deployment**
 #### Fork The Repo
-    <br>
-<a href="https://github.com/Astropeda/Gnime-lite/fork"><img title="INRL-MD" src="https://img.shields.io/badge/FORK GNIME LITE-h?color=black&style=for-the-badge&logo=stackshare"></a>
+
+<a href="https://github.com/Astropeda/Gnime-lite/fork"><img title="GNIME" src="https://img.shields.io/badge/FORK GNIME LITE-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 ---
 #### Scan Qr
-    <br>
+
 <a href="https://replit.com/@astromedia0010/GNIME-MD-QR?v=1"><img title="SCAN QR" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi"></a>
+
+---
+#### Deploy To Heroku
+
+<a href="https://heroku.com/deploy?template=https://github.com/Astropeda/Gnime-lite"><img title="HEROKU" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Heroku"></a>
 
 ---
 #### Deploy To Replit
 
-<a href="https://replit.com/github/Astropeda/Gnime-lite"><img title="INRL-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+<a href="https://replit.com/github/Astropeda/Gnime-lite"><img title="REPLIT" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
 
 ---
  ### Termux Guide
