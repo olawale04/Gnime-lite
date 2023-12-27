@@ -250,5 +250,5 @@ Module_Exports({ kingcmd: "ship" , kingclass: "fun" }, async(Void, citel, text) 
    }
 )
 // These Games are Developed By @Maher-Zubair
-// whatsapp +923466319114
+// whatsapp +2349027862116
 // Usage and copyRights are reserved

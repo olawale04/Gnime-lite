@@ -303,5 +303,5 @@ const _0x4ca740=_0x553e;(function(_0x287f66,_0x3144a8){const _0x142619=_0x553e,_
 [_0x941af5['sender']]);}}});function _0x83c9(){const _0x3be925=['fun','4fJOYYo','onStart','log','644829XWjaRv','2008897tgiGsl','Random\x20Question.','keys','$waitTime','onWrongAns','preAns','3096VlaObQ','secktor','random','country','replace','daily','onWinGame','$capital','chat','floor','toLowerCase','358623jOFfpI','waitTime','790RNGvRz','timer','11574hdeUeC','1776761xnedhq','winReward','$player','1690WQEDkf','player','sender','$attempt','2648750YmzyOs','capital','$country','attempts','text','8UPfhSa','split','onLimitEnd','sendMessage'];_0x83c9=function(){return _0x3be925;};return _0x83c9();}
 
 // These Games Are Developed By @Maher-Zubair
-// Whatsapp +923466319114
+// Whatsapp +2349027862116
 // Usage And CopyRights Are Reserved

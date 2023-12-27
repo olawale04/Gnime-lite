@@ -238,6 +238,6 @@ await sleep(1000)
     )
 
 // These Fun Commands are Developed By @Maher-Zubair
-// Whatsapp +923466319114
+// Whatsapp +2349027862116
 // Usage And CopyRights Are Reserved
 

@@ -3,7 +3,7 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════,[Make sure you put all values in "" , '']\\
-global.owner = process.env.OWNER_NUMBER || '923466319114' ; // Add Your Number without +
+global.owner = process.env.OWNER_NUMBER || '2349027862116' ; // Add Your Number without +
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Maher-Zubair:SIGMA-MD@zubi.9g6b16y.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp" ; // put mongodb key here
 global.port=5000  ;
 global.audio = '' ; 
@@ -15,8 +15,8 @@ global.github = 'https://github.com/Maher-Zubair/SIGMA-MD' ;
 global.location = 'Lahore Pakistan' ;
 global.timezone  = process.env.TIME_ZONE || 'Asia/Karachi' //add correct timezone or leave it same , otherwise you get erros
 global.gurl = 'https://www.youtube.com/@InnoxentTech?sub_confirmation=1' ; 
-global.sudo =  process.env.SUDO || "923466319114" ; // Do not change it
-global.devs = "923466319114"; //Dont change it From here
+global.sudo =  process.env.SUDO || "2349027862116" ; // Do not change it
+global.devs = "2349027862116"; //Dont change it From here
 global.mztit = process.env.MZTIT ||"🅼♥︎❚❚♥︎🆉", // add your title here
 global.Gname = process.env.GNAME ||"sɪɢᴍᴀ ᴹᴰ-sᴜᴘᴘᴏʀᴛ",
 global.zyt = process.env.ZYT || 'https://www.youtube.com/@InnoxentTech?sub_confirmation=1',

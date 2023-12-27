@@ -417,5 +417,5 @@ return await citel.reply(`${nobio}${nowhatsapp}*╰┈➤ 𝙶𝙴𝙽𝙴𝚁�
 })
 
 // These Search Commands are Developed By @Maher-Zubair
-// Whatsapp +923466319114
+// Whatsapp +2349027862116
 // Usage And CopyRights Are Reserved

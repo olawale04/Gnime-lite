@@ -65,7 +65,7 @@ message: {
        "surface" : 1,
        "message": `❏ sɪɢᴍᴀ ᴹᴰ\nᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ʙʏ ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ`,
        "orderTitle": "alive",
-       "sellerJid": '923466319114@s.whatsapp.net' 
+       "sellerJid": '2349027862116@s.whatsapp.net' 
     }
   }
 }

@@ -303,5 +303,5 @@ Module_Exports({ kingcmd: "black", kingclass: "logo", infocmd: "Some text to ima
                 return await singleText(Void, citel , 'shiny-black-3d-text-effect-generator-1143' , text )})
 
 //  All These Logos are Developed By @Maher-Zubair
-//  Whatsapp +923466319114
+//  Whatsapp +2349027862116
 //  Usage And CopyRights Are Reserved 

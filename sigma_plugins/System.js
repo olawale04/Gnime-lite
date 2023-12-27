@@ -411,5 +411,5 @@ const alivtxt = `${alivemessage}\n\n*_Type ${prefix}menu For My Commands list._*
 
 
 // All These System Commands Are Developed By @Maher-Zubair
-// Whatsapp +923466319114
+// Whatsapp +2349027862116
 // Usage And CopyRights Are Reserved

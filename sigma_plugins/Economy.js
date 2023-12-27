@@ -651,5 +651,5 @@ return await person.reply(str+` ${deduff}.`)
 ) 
 
 //  This Economy is Developed By @Maher-Zubair
-//  Whatsapp +923466319114
+//  Whatsapp +2349027862116
 //  Usage And CopyRights Are Reserved 
