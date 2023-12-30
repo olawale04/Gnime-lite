@@ -5,7 +5,7 @@
           "main": "lib/client.js",
           "type": "commonjs",
           "license": "GPL-3.0",
-          "scripts": { 
+          "scripts": {
                     "start": "pm2 start lib/client.js --deep-monitoring --attach --name GNIME-lite",
                     "stop": "pm2 stop GNIME-lite"
           },
@@ -41,7 +41,9 @@
                     "got": "12.6.0",
                     "heroku-client": "3.1.0",
                     "human-readable": "^0.2.1",
+                    "instaloader": "^1.0.1",
                     "jimp": "^0.16.1",
+                    "jquery": "^3.7.1",
                     "jsdom": "^16.4.0",
                     "koyeb-api-client": "latest",
                     "mailist": "^1.0.3",
